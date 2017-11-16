@@ -11,10 +11,17 @@ Getting Started
     $ cd fractal
     $ python <xxx.py>
     
+==============================================================================
+Demos
+==============================================================================
  
  circle_square
  
  .. image:: https://i.pinimg.com/originals/c6/3a/fd/c63afd2e560f6e19266044f294f84c7d.jpg
+     :width: 200px
+     :align: center
+     :height: 100px
+     :alt: alternate text
  
  leaves
  
