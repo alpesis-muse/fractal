@@ -1,3 +1,29 @@
 ##############################################################################
 Fractal
 ##############################################################################
+
+==============================================================================
+Getting Started
+==============================================================================
+
+::
+
+    $ cd fractal
+    $ python <xxx.py>
+    
+ 
+ circle_square
+ 
+ .. image:: https://i.pinimg.com/originals/c6/3a/fd/c63afd2e560f6e19266044f294f84c7d.jpg
+ 
+ leaves
+ 
+ .. image:: https://i.pinimg.com/originals/28/94/39/2894393207371f324e800ec929859d90.jpg
+ 
+ tree
+ 
+ .. image:: https://i.pinimg.com/originals/6f/5a/66/6f5a6610e12ee3483ac94d3297297dad.jpg
+ 
+ triangle
+ 
+ .. image:: https://i.pinimg.com/originals/f2/98/b5/f298b50cb0fd5bb59818e0b5a2c295cb.jpg
